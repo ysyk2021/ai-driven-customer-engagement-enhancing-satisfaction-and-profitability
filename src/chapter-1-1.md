@@ -1,5 +1,3 @@
-Understanding the Role of AI in Customer Engagement
-=============================================================================================================
 
 AI technology is transforming the way businesses engage with their customers. In this chapter, we will explore the role of AI in customer engagement and how it can enhance the overall customer experience.
 

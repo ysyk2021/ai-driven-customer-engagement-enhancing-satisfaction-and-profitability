@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Customer Engagement
-===================================================================
 
 AI technology is transforming the way businesses engage with customers. In this chapter, we will explore the various tools and technologies available for AI-driven customer engagement.
 

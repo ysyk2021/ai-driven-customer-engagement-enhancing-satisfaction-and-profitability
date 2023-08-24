@@ -1,5 +1,3 @@
-Chapter 7: Managing Ethics and Bias in AI-Enabled Customer Engagement
-=====================================================================
 
 AI technology has tremendous potential to transform customer engagement processes. However, it also poses ethical and social risks, including the potential for bias and discrimination. In this chapter, we will explore how businesses can manage ethics and bias in AI-enabled customer engagement.
 

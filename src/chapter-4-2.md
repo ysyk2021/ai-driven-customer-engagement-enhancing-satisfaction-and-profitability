@@ -1,5 +1,3 @@
-Automated Product Recommendations and Upselling using AI
-========================================================================================================================
 
 Personalization and customization are critical for businesses to provide a unique and tailored customer experience. However, managing personalization and customization at scale can be challenging. In this chapter, we will explore how AI technology can be used to enhance personalization and customization through automated product recommendations and upselling.
 

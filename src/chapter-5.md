@@ -1,5 +1,3 @@
-Chapter 5: Improving Social Media Engagement with AI
-====================================================
 
 Social media has become a crucial channel for customer engagement, and artificial intelligence (AI) technology can be used to enhance social media engagement. In this chapter, we will explore how AI can be used to improve social media engagement through personalized chatbots and virtual assistants.
 

@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-=================================================================================================================
 
 AI technology is rapidly transforming the way businesses engage with customers. In this chapter, we will provide an overview of the available tools and technologies for AI-driven customer engagement.
 

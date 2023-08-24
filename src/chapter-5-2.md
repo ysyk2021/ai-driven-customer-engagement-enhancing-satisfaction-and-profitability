@@ -1,5 +1,3 @@
-Personalized Chatbots and Virtual Assistants for Social Media using AI
-============================================================================================================================
 
 Social media has become a critical channel for customer engagement, and artificial intelligence (AI) technology can be used to enhance social media engagement. In this chapter, we will explore the ways in which AI can be used to improve social media engagement through personalized chatbots and virtual assistants.
 
